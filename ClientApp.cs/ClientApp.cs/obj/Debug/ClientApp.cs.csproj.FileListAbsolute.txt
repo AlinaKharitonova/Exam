@@ -1,0 +1,11 @@
+C:\ClientApp.cs\ClientApp.cs\bin\Debug\ClientApp.cs.exe.config
+C:\ClientApp.cs\ClientApp.cs\bin\Debug\ClientApp.cs.exe
+C:\ClientApp.cs\ClientApp.cs\bin\Debug\ClientApp.cs.pdb
+C:\ClientApp.cs\ClientApp.cs\bin\Debug\ClassLibrary1.dll
+C:\ClientApp.cs\ClientApp.cs\bin\Debug\ClassLibrary1.pdb
+C:\ClientApp.cs\ClientApp.cs\obj\Debug\ClientApp.cs.csproj.AssemblyReference.cache
+C:\ClientApp.cs\ClientApp.cs\obj\Debug\ClientApp.cs.csproj.SuggestedBindingRedirects.cache
+C:\ClientApp.cs\ClientApp.cs\obj\Debug\ClientApp.cs.csproj.CoreCompileInputs.cache
+C:\ClientApp.cs\ClientApp.cs\obj\Debug\ClientApp.cs.csproj.CopyComplete
+C:\ClientApp.cs\ClientApp.cs\obj\Debug\ClientApp.cs.exe
+C:\ClientApp.cs\ClientApp.cs\obj\Debug\ClientApp.cs.pdb

@@ -1,0 +1,11 @@
+C:\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\ConsoleApp2\ConsoleApp2\bin\Debug\ClassLibrary1.dll
+C:\ConsoleApp2\ConsoleApp2\bin\Debug\ClassLibrary1.pdb
+C:\ConsoleApp2\ConsoleApp2\obj\Debug\ServerApp.cs.csproj.AssemblyReference.cache
+C:\ConsoleApp2\ConsoleApp2\obj\Debug\ServerApp.cs.csproj.SuggestedBindingRedirects.cache
+C:\ConsoleApp2\ConsoleApp2\obj\Debug\ServerApp.cs.csproj.CoreCompileInputs.cache
+C:\ConsoleApp2\ConsoleApp2\obj\Debug\ServerApp.cs.csproj.CopyComplete
+C:\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
